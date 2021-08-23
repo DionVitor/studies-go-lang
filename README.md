@@ -1,2 +1,2 @@
 # studies-go-lang
-Repository for to study GO language.
+Repository to study GO language.
