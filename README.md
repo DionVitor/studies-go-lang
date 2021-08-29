@@ -9,3 +9,4 @@ Repository to study GO language.
 - Redirect go tools from module path to local directory: ```go mod edit - replace module=./module```
 - Run go test: ```go test```
 - Run go test with verbose mode ```go test -v```
+- Build and generate executable file: ```go build folder/main.go```
